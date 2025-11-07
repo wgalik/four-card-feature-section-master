@@ -3,9 +3,12 @@
 A responsive feature section built as part of the Frontend Mentor challenge.
 This project demonstrates a clean, modern layout showcasing four feature cards with hover shadows and adaptive grid alignment using HTML and SCSS.
 
-## 🧠 Overview  
+## 🧠 Overview
+
+[Link](https://wgalik.github.io/four-card-feature-section-master/)
 
 ## 🎯 Goal
+
 To build a responsive Four Card Feature Section that matches the provided design for both mobile and desktop layouts.
 
 ## 💡 Features
@@ -24,9 +27,10 @@ To build a responsive Four Card Feature Section that matches the provided design
 - Google Fonts – Poppins
 
 ## 🖥️ Responsive Design
-**Device**	**Layout**
-Mobile        Four stacked cards
-Desktop	      Central column layout with two side cards
+
+**Device** **Layout**
+Mobile Four stacked cards
+Desktop Central column layout with two side cards
 
 The layout automatically adapts from a single-column grid on small screens to a three-column layout on larger screens.
 
