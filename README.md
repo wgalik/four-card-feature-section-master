@@ -28,9 +28,10 @@ To build a responsive Four Card Feature Section that matches the provided design
 
 ## 🖥️ Responsive Design
 
-**Device** **Layout**
-Mobile Four stacked cards
-Desktop Central column layout with two side cards
+|**Device** |**Layout**
+|:-----------|:-----------
+|Mobile |Four stacked cards
+|Desktop |Central column layout with two side cards
 
 The layout automatically adapts from a single-column grid on small screens to a three-column layout on larger screens.
 
